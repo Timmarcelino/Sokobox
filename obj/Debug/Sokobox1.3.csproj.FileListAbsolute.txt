@@ -1,0 +1,24 @@
+C:\Temp\Sokobox1.3\Sokobox1.3\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe
+C:\Temp\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.pdb
+C:\Temp\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.exe
+C:\Temp\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.pdb
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.exe
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.pdb
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe.config
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.pdb
+E:\Sistemas de Informação\Sokobox1.3\Sokobox1.3\obj\Debug\ResolveAssemblyReference.cache
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe.config
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.exe
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.pdb
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe.config
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.exe
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\obj\Debug\Sokobox1.3.pdb
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.pdb
+\\Giovanni-pc\compartilhamento\Sokobox1.3\Sokobox1.3\obj\Debug\ResolveAssemblyReference.cache
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.pdb
+E:\COMPARTILHAMENTO\Sokobox1.3\Sokobox1.3\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Sokobox1.3\Sokobox1.3\bin\Debug\Sokobox1.3.exe.config
